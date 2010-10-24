@@ -1,0 +1,15 @@
+
+PYLDecider is a Python program that computes optimal strategy for playing
+the game show 'Press Your Luck'.
+
+To run it, just type 'python PylDecider.py'.
+
+Edit the main function at the bottom of the file to set the initial
+conditions.  A future enhancement would be to read in these conditions
+from a file instead.
+
+The simulation of the rules is complete, but some of the strategy
+decisions are not completely implemented yet.
+
+
+Brian Dominy
